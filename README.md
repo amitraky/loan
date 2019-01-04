@@ -6,7 +6,7 @@
 n = term_in Months / 12;
 
 
-CP =   P + ((P*r*n)/100);
+CP =   P + ((P*r*n)/100); may be ((P*r*n)/100);
 
 
 P = 1200
