@@ -52,3 +52,5 @@ function doCompoundCalculation(L, r, n) {
 http://www.convertalot.com/apr_flat_loan_repayment_calculator.html
 https://emi-calc.com/flat-rate-emi-calculator.php
 http://www.kountmoney.com/flat-reducing-interest-calculator.html
+
+http://rd-calculator.in/
