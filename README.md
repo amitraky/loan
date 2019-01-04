@@ -49,3 +49,4 @@ function doCompoundCalculation(L, r, n) {
 	return P;
 }
 ```
+http://www.convertalot.com/apr_flat_loan_repayment_calculator.html
